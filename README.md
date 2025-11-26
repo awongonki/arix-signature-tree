@@ -1,15 +1,12 @@
 # 🎄 Arix Signature Interactive Tree
 
 > **A high-fidelity 3D cinematic web experience featuring instanced particle physics and morphing geometry.**
-
 <!-- PREVIEW IMAGE - REPLACE THIS URL WITH YOUR GIF/VIDEO UPLOAD LATER -->
 ![Arix Tree Preview](https://via.placeholder.com/800x400?text=Arix+Signature+Tree+Preview)
 
 <!-- BUTTONS -->
 [![Open in CodeSandbox](https://img.shields.io/badge/Play_in_CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/p/github/awongonki/arix-signature-tree/main)
 [![View on GitHub](https://img.shields.io/badge/GitHub-Repository-gray?style=for-the-badge&logo=github)](https://github.com/awongonki/arix-signature-tree)
-
----
 
 ## 🎨 About The Project
 
