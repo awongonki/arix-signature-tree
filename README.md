@@ -2,11 +2,12 @@
 
 > **A high-fidelity 3D cinematic web experience featuring instanced particle physics and morphing geometry.**
 
-<!-- REPLACE THE LINK BELOW AFTER DRAGGING YOUR GIF INTO THE EDITOR -->
-![Arix Tree Preview](https://via.placeholder.com/800x400?text=Upload+Your+Screen+Recording+Here+To+See+Preview)
+<!-- PREVIEW IMAGE - REPLACE THIS URL WITH YOUR GIF/VIDEO UPLOAD LATER -->
+![Arix Tree Preview](https://via.placeholder.com/800x400?text=Arix+Signature+Tree+Preview)
 
-## 🌐 [Live Demo](https://your-username.github.io/arix-tree/) 
-*(Click above to experience the simulation)*
+<!-- BUTTONS -->
+[![Open in CodeSandbox](https://img.shields.io/badge/Play_in_CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/p/github/awongonki/arix-signature-tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-gray?style=for-the-badge&logo=github)](https://github.com/awongonki/arix-signature-tree)
 
 ---
 
@@ -48,10 +49,4 @@ Instead of deleting and re-creating meshes, the engine uses **Linear Interpolati
 
 ---
 
-## 🚀 How to Run Locally
-
-If you want to play with the code:
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/arix-signature-tree.git
+*Designed by Arix Interaction Lab // Powered by Gemini 3*
